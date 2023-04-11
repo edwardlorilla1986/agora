@@ -1,0 +1,7 @@
+{
+  "name": "agora",
+  "displayName": "agora",
+  "ios": {
+    "bundleIdentifier": "com.edwardlancelorilla.agora"
+  }
+}
